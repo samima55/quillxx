@@ -1,6 +1,8 @@
 import type { Config } from 'tailwindcss'
 
 const config: Config = {
+  //on here the tailwind is connected to the global css file for shadcn libarary
+  darkMode:["class"],
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
