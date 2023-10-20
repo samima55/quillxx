@@ -8,7 +8,7 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 🟦 TypeScript <br>
 ⚛️ React  <br>
 🚀 Next.js  <br>
-🔒 Authentication (your chosen method)  <br>
+🔒 Authentication <br>
 📜 Shadcn UI library  <br>
 🎨 Tailwind CSS  <br>
 🤖 JavaScript  <br> <br>
