@@ -5,14 +5,14 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 
 📋 Technologies Used:
 
-🟦 TypeScript
-⚛️ React
-🚀 Next.js
-🔒 Authentication (your chosen method)
-📜 Shadcn library
-🎨 Tailwind CSS
-🤖 JavaScript
-Key Features
+🟦 TypeScript <br>
+⚛️ React  <br>
+🚀 Next.js  <br>
+🔒 Authentication (your chosen method)  <br>
+📜 Shadcn library  <br>
+🎨 Tailwind CSS  <br>
+🤖 JavaScript  <br>
+Key Features  <br>
 📂 PDF Upload: Easily upload your PDF documents, and Quillxx will take care of the rest.
 
 🔐 Authentication: User accounts and login functionality ensure that your data is secure.
