@@ -15,15 +15,15 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 
 # Key Features  <br> 
 
-📂 <b>PDF<b> Upload: Easily upload your PDF documents, and Quillxx will take care of the rest.
+📂 <b>PDF Upload: </b> Easily upload your PDF documents, and Quillxx will take care of the rest.
 
-🔐 Authentication: User accounts and login functionality ensure that your data is secure.
+🔐 <b> Authentication: </b> User accounts and login functionality ensure that your data is secure.
 
-🤖 Chatbot Interaction: Have meaningful dialogues with our chatbot, which is here to assist you.
+🤖 <b>Chatbot Interaction: </b> Have meaningful dialogues with our chatbot, which is here to assist you.
 
-📃 PDF Content Extraction: Thanks to the Shadcn library, Quillxx extracts valuable text and data from your PDFs.
+📃 <b> PDF Content Extraction: </b> Thanks to the --- library, Quillxx extracts valuable text and data from your PDFs.
 
-❓ Question and Answer: Ask questions about the PDF content, and the chatbot will promptly respond based on the extracted data.
+❓ <b> Question and Answer:</b> Ask questions about the PDF content, and the chatbot will promptly respond based on the extracted data.
 
 Share Your Knowledge
 Quillxx is a project that welcomes collaboration and enhancements. You can contribute by creating issues or pull requests on the GitHub repository. Your contributions are valued and appreciated.
