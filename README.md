@@ -13,7 +13,7 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 🎨 Tailwind CSS  <br>
 🤖 JavaScript  <br> <br>
 
-Key Features  <br> 
+# Key Features  <br> 
 
 📂 PDF Upload: Easily upload your PDF documents, and Quillxx will take care of the rest.
 
