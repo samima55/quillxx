@@ -12,7 +12,8 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 📜 Shadcn library  <br>
 🎨 Tailwind CSS  <br>
 🤖 JavaScript  <br>
-Key Features  <br>
+Key Features  <br> <br>
+
 📂 PDF Upload: Easily upload your PDF documents, and Quillxx will take care of the rest.
 
 🔐 Authentication: User accounts and login functionality ensure that your data is secure.
