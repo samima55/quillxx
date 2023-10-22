@@ -12,6 +12,7 @@ Quillxx is a cutting-edge web application that seamlessly combines document mana
 🔒 kinde for Authentication <br>
 📜 Shadcn UI library  <br>
 🎨 Tailwind CSS  <br>
+🎯 Icons - luicde React Icon Lib <br>
 🤖 JavaScript  <br> <br>
 
 # Key Features  <br> 
